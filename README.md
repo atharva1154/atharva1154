@@ -49,11 +49,13 @@ Developed a chatbot using AWS Lex to assist users with vehicle ordering.
 
 ## 📄 Research Publication
 
-**Digital Dining Application for Hotels**
+### 📝 Digital Dining Application for Hotels
 
-Published in the International Research Journal of Modernization in Engineering Technology and Science (IRJMETS).
+Published in the **International Research Journal of Modernization in Engineering Technology and Science (IRJMETS).**
 
----
+🏆 Based on my Diploma Final Year Major Project.
+
+📜 **Certificate:** [View Research Publication Certificate](Research_Publication_Certificate.jpg)
 
 ## 📫 Connect with Me
 
