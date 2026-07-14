@@ -43,6 +43,7 @@ Developed a chatbot using AWS Lex to assist users with vehicle ordering.
 - Cyber Security Industrial Training – BITS Techno
 - IBM C++ Certification
 - Java Certification
+- Research_Publication_Certificate
 
 ---
 
